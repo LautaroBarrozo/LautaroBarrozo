@@ -20,27 +20,23 @@ Actualmente estoy enfocado en ampliar mis conocimientos, desarrollar proyectos y
 
 ## 🛠️ Tecnologías y herramientas
 
-**Frontend**
+### Frontend
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind)" />
-\</p>
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind)" /> \</p>
 
-**Backend**
+### Backend
 
-\<p>
+\<p align="left">
 &#x20; \<img src="[https://skillicons.dev/icons?i=python,java,spring,nodejs,nestjs,cpp](https://skillicons.dev/icons?i=python,java,spring,nodejs,nestjs,cpp)" />
 \</p>
 
-**Bases de datos**
+### Bases de datos
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite)" />
-\</p>
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite)" /> \</p>
 
-**Herramientas**
+### Herramientas
 
-\<p>
+\<p align="left">
 &#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,idea,postman](https://skillicons.dev/icons?i=git,github,vscode,idea,postman)" />
 \</p>
 
@@ -87,25 +83,10 @@ En mis repositorios vas a encontrar distintos proyectos relacionados con desarro
 
 Estoy abierto a conocer personas, colaborar en proyectos y explorar nuevas oportunidades laborales.
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/LautaroBarrozo](https://github.com/LautaroBarrozo)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/in/lautaro-barrozo-38b51b23b/](https://www.linkedin.com/in/lautaro-barrozo-38b51b23b/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="mailto\:lautarobarrozo070602\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+\<p align="center">   \<a href="[https://github.com/LautaroBarrozo](https://github.com/LautaroBarrozo)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a>   \<a href="[https://www.linkedin.com/in/lautaro-barrozo-38b51b23b/](https://www.linkedin.com/in/lautaro-barrozo-38b51b23b/)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="mailto\:lautarobarrozo070602\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a> \</p>
 
 ---
 
-\<p align="center">
-&#x20; \<i>「La mejor manera de aprender es construyendo.」\</i>
-\</p>
+\<p align="center">   \<i>「La mejor manera de aprender es construyendo.」\</i> \</p>
 
-\<p align="center">
-&#x20; ⭐ Gracias por visitar mi perfil.
-\</p>
-
+\<p align="center">   ⭐ Gracias por visitar mi perfil. \</p>
